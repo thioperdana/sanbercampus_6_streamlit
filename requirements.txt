@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+google-genai
+pyPDF2
+python-dotenv
+scikit-learn
+sentence-transformers
+markdown
