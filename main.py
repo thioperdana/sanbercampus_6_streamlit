@@ -100,7 +100,7 @@ if prompt := st.chat_input(
 
         for chunk in response:
             if chunk.text:
-                full_response += chunk.text+"\n"
+                full_response += chunk.text
             
             message_placeholder.markdown(full_response + "▌")
 
